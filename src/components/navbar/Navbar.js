@@ -56,7 +56,7 @@ const Navbar = ({ nav, handleNav }) => {
 							onClick={handleNav}
 							to='home'
 							className='profile-name'>
-							Peace Jinadu-Paul
+							Mark Barton
 						</Link>
 						<NavLinks handleNav={handleNav} />
 					</div>

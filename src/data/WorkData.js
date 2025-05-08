@@ -121,4 +121,17 @@ export const GameData = [
 		gitlink: "",
 		site: "//agelessrepublic.com/",
 	},
+	{
+		title: "Slow Mo Gun",
+		desc: "Take control of your gun and flip it to reach new levels and defeat enemies in your path.",
+		tech: [
+			"Unity",
+			"URP Pipeline",
+			"UI",
+			"C#",
+			"Google Play Console",
+		],
+		gitlink: "",
+		site: "//play.google.com/store/apps/details?id=com.UselessGameStudio.SlowMoGun",
+	},
 ];
